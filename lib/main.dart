@@ -89,7 +89,7 @@ class ChatScreenState extends State<ChatScreen> with TickerProviderStateMixin {
               : null), //modified
     );
   }
-
+//test
   Widget _buildTextComposer() {
     return new IconTheme(
       data: new IconThemeData(color: Theme.of(context).accentColor),
